@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.zlh</groupId>
-	<artifactId>hello</artifactId>
+	<artifactId>hello-spring-boot-autoconfigure</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>hello-spring-boot-autoconfigure</name>
 	<description>hello spring-boot autoconfigure</description>
