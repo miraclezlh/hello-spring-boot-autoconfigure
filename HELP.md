@@ -15,3 +15,8 @@ While most of the inheritance is fine, it also inherits unwanted elements like `
 To prevent this, the project POM contains empty overrides for these elements.
 If you manually switch to a different parent and actually want the inheritance, you need to remove those overrides.
 
+### 三种自定义属性绑定方式
+* @ConfigurationProperties + @Component
+* @ConfigurationProperties + @EnableConfigurationProperties
+* 启动类上加上@ConfigurationPropertiesScan("属性类所在的package")
+
