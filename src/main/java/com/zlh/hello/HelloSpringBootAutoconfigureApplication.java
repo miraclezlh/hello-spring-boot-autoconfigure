@@ -7,6 +7,7 @@ import org.springframework.boot.context.properties.ConfigurationPropertiesScan;
 /**
  * 启动类
  * 自定义配置绑定，方式一(@ConfigurationPropertiesScan)
+ * @author 70635
  */
 @SpringBootApplication
 //@ConfigurationPropertiesScan

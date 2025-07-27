@@ -1,5 +1,8 @@
 package com.zlh.hello.service;
 
+/**
+ * @author 70635
+ */
 public interface HelloService {
     /**
      * 发送信息
