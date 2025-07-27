@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * 属性类
- * 自定义配置绑定，方式三(@Component)
+ * 自定义配置绑定，方式三(@ConfigurationProperties+@Component)
  *
  * @author 70635
  */

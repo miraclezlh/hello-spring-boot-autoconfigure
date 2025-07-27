@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * 自动配置装配类
- * 自定义配置绑定，方式二(@EnableConfigurationProperties(HelloProperties.class))
+ * 自定义配置绑定，方式二(@EnableConfigurationProperties(HelloProperties.class)+@ConfigurationProperties)
  * @author 70635
  */
 @Configuration
